@@ -1,0 +1,1 @@
+CREATE INDEX idx_yourindex ON YourTableName (column1);
