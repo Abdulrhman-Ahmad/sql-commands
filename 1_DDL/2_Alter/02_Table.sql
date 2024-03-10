@@ -12,7 +12,7 @@ DROP COLUMN column_name;
 ALTER TABLE table_name
 ALTER COLUMN column_name new_data_type;
 
--- Add a constraint
+-- Add a constraint [Not NUll / Check / Default / Unique / ]
 ALTER TABLE table_name
 ADD CONSTRAINT constraint_name CONSTRAINT_TYPE (column_name);
 

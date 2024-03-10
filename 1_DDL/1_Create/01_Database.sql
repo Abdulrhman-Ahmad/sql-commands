@@ -31,3 +31,7 @@ CREATE DATABASE ExaminationSystem ON PRIMARY (
 
 -- Logical Name is a name used internally by SQL Server to reference the database. It's typically used within SQL Server queries and management tools to identify the database.
 -- Physical Name refers to the actual file name on the disk where the database's data or log is stored.
+
+-- another way to create database by default configurations is 
+
+CREATE DATABASE Interview
